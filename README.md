@@ -50,7 +50,7 @@ a. install dep
       npm i
   ```
 
-b. add the IPC infomation in network directory  
+b. add the IPC infomation in network directory `nftapp\utils\networks.json`
 
   ```json
   {
