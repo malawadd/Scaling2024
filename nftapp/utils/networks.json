@@ -1,0 +1,28 @@
+{
+  "selectedChain": "381277380063393",
+  "1337": {
+    "chainId": "1337",
+    "chainName": "Localhost 8545",
+    "rpcUrls": [
+      "http://localhost:8545"
+    ],
+    "nativeCurrency": {
+      "symbol": "ETH"
+    },
+    "blockExplorerUrls": []
+  },
+ 
+  "381277380063393": {
+    "chainId": "381277380063393",
+    "chainName": "IPC",
+    "rpcUrls": [
+      "http://localhost:8545/"
+    ],
+    "nativeCurrency": {
+      "symbol": "FIL"
+    },
+    "blockExplorerUrls": [
+      ""
+    ]
+  }
+}
